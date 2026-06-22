@@ -1,1 +1,2 @@
-movie_id,rating,genre_ids
+movie_id,rating,genre_ids,review
+7512,,"[35, 878, 12]",5.0
